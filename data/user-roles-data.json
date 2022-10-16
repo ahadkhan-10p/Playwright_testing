@@ -1,0 +1,13 @@
+{
+    "pageOpenHeading" : "Users & Roles",
+    "AddUserModalHeading" : "Add User",
+    "projectName" : "Created by Playwright Automation",
+    "userFirstName" : "Ahad",
+    "userLastName" : "Khan",
+    "roleTester" : "Tester",
+
+    "userEditHeading" : "Edit User",
+    "userEditFirstName" : "Playwright",
+    "userEditLastName" : "Testing",
+    "projectNameEdit" : "Playwright Practice"
+}

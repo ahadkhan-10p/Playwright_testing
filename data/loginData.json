@@ -1,0 +1,6 @@
+{
+    "username" : "playwright-test@yopmail.com",
+    "password" : "Smoke1234@",
+    "loginUrl" : "/Login",
+    "dashboardUrl" : "/Dashboard/Index"
+}

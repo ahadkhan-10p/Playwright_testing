@@ -1,0 +1,14 @@
+{
+    "testSuiteName" : "Section by Automation",
+    "testSuiteDescription" : "Test Suite Description by Automation",
+    "tsDescUpdated" : "Updated Test Suite Description by Automation",
+    "tsSuccessMsg" : "Test Suite Added",
+    "sectionAddSucessMsg" : "Section Added",
+    "sectionName" : "Section by Automation",
+    "iSectionDescription" : "Random Section Description",
+    "iiSectionName" : "Second Section",
+    "iiSectionDescription" : "Second Section Description",
+    "sectionEditedName" : "Edited Random Sections",
+    "sectionEditedDescription" : "Edited Random Sections Description",
+    "secEditedSuccessMsg" : "Changes saved!"
+}

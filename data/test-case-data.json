@@ -1,0 +1,32 @@
+{
+    "testCasePageHeading" : "Add Test Case",
+    "testCaseTitle" : "This test case is created by automation.",
+    "testCaseEstimates" : "10 m",
+    "testCaseReference" : "www.examples.com",
+    "tcTypeCompatibility" : "Compatibility",
+    "tcPriorityP3" : "P3 - Good to Test",
+    "testCaseDescription" : "We are adding description by automation.",
+    "tcPrecondition" : "Precondition by Automation \nAhad",
+    "tcTestData" : "Test Data by Automation \nAhad",
+    "tcSteps" : "Steps by Automation \nAhad",
+    "tcExpectedResult" : "Expected Result by Automation \nAhad",
+    "tcBddGherkin" : "BDD Gherkin by Automation \nAhad",
+    "tcCucumberTag" : "Cucumber Tags by Automation \nAhad",
+
+    "tcEditedHeading" : "Edit Test Case",
+    "tcEditTitle" : "This test case is Edited by automation.",
+    "tcEditEstimates" : "8 m",
+    "tcEditReference" : "www.updated.com",
+    "tcTypeFunctional" : "Functional",
+    "tcPriorityP2" : "P2 - Should Test",
+    "tcEditDescription" : "We are Editing description by automation.",
+    "tcEditPrecondition" : "Edited Precondition by Automation \nAhad",
+    "tcEditedTestData" : "Edited Test Data by Automation \nAhad",
+    "tcEditedSteps" : "Edited Steps by Automation \nAhad",
+    "tcEditedExpectedResult" : "Edited Expected Result by Automation \nAhad",
+    "tcEditedBddGherkin" : "Edited BDD Gherkin by Automation \nAhad",
+    "tcEditedCucumberTag" : "Edited Cucumber Tags by Automation \nAhad",
+
+    "tcAddedExternally" : "This test case is Added Externally by automation",
+    "addedTcSucessText" : "Test case has been added successfully..!"
+}
